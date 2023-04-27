@@ -150,11 +150,14 @@ h2{
 
 h3{
     font-size: 110%;
+    font-family: var(--fonte-secundaria);
 }
 h4{
     font-size: 110%;
+    font-family: var(--fonte-secundaria);
 }
 
 h5{
     font-size: 160%;
+font-family: var(--fonte-secundaria);
 }
